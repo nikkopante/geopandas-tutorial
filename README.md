@@ -1,4 +1,13 @@
-## I. Installation
+# I. Requirements
+You need the following to copy and run the project.
+
+1. Git
+https://git-scm.com/downloads
+2. Anaconda
+https://www.anaconda.com/products/distribution
+
+
+## II. Installation
 
 In your directory clone the project.
 ```console
